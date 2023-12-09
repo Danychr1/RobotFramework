@@ -1,0 +1,20 @@
+1702125709990	geckodriver	INFO	Listening on 127.0.0.1:52643
+1702125710525	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/s2/j45ssplx5j10njfbfm_8hrtw0000gn/T/rust_mozprofile7bUQQ9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702125711480	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1702125711836	Marionette	INFO	Listening on port 52649
+Read port: 52649
+WebDriver BiDi listening on ws://127.0.0.1:52644
+1702125712186	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52644/devtools/browser/e715f7b5-e610-4b25-9993-4e3dafdfa696
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationplayground.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationplayground.com."
+1702125742958	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3782: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65, line 161: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:161:17
+mA@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:487:134
+nA/<@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:487:111
+
