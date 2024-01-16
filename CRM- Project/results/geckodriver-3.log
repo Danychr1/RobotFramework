@@ -1,0 +1,22 @@
+1705186128115	geckodriver	INFO	Listening on 127.0.0.1:52453
+1705186128643	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/s2/j45ssplx5j10njfbfm_8hrtw0000gn/T/rust_mozprofileCdRfDQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705186129276	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705186129927	Marionette	INFO	Listening on port 52459
+WebDriver BiDi listening on ws://127.0.0.1:52454
+Read port: 52459
+1705186130490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52454/devtools/browser/8700df08-7164-455b-bc19-8a3c726300f5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationplayground.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationplayground.com."
+1705186159317	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65, line 161: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:161:17
+uA@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:479:134
+vA/<@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:479:111
+
+1705275460034	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1705361860096	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.

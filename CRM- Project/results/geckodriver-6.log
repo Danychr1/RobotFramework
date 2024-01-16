@@ -1,0 +1,37 @@
+1705186857970	geckodriver	INFO	Listening on 127.0.0.1:52638
+1705186858508	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/s2/j45ssplx5j10njfbfm_8hrtw0000gn/T/rust_mozprofileDCR50C"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705186859156	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705186859977	Marionette	INFO	Listening on port 52644
+WebDriver BiDi listening on ws://127.0.0.1:52639
+Read port: 52644
+1705186860560	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52639/devtools/browser/8bfae9f2-721d-4147-bff3-a03243d7064d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationplayground.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationplayground.com."
+1705186889174	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65, line 217: Script terminated by timeout at:
+Sf@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:217:217
+Lm@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:339:238
+aa.Rm@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:583:99
+aa.Qm/</<@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:580:118
+Sj@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:296:137
+fk@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:299:350
+aa.Qm/<@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:580:104
+c@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:405:169
+ks@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:406:269
+aa.Qm@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:580:90
+c@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:599:678
+Zp@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:377:298
+Yp.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:380:266
+Yp.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:378:207
+Rp@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:375:789
+vG/<@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:600:178
+aa.Pk/<@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:550:126
+aa.Pk/c/<@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:549:420
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+1705276187917	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1705362587709	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.

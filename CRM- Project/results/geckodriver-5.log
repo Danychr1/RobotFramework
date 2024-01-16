@@ -1,0 +1,25 @@
+1705186368782	geckodriver	INFO	Listening on 127.0.0.1:52558
+1705186369316	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/s2/j45ssplx5j10njfbfm_8hrtw0000gn/T/rust_mozprofile67mThn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705186370058	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705186370717	Marionette	INFO	Listening on port 52564
+WebDriver BiDi listening on ws://127.0.0.1:52559
+Read port: 52564
+1705186371227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52559/devtools/browser/3b69728b-70c9-471a-949b-d9ffbc7256b7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationplayground.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationplayground.com."
+1705186400086	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65, line 161: Script terminated by timeout at:
+Qa@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:161:437
+yo@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:370:431
+Rp@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:375:766
+vG/<@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:600:178
+aa.Pk/<@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:550:126
+aa.Pk/c/<@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:549:420
+
+1705275699072	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1705362098938	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.

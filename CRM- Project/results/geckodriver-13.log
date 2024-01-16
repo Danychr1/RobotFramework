@@ -1,0 +1,20 @@
+1705351273870	geckodriver	INFO	Listening on 127.0.0.1:55663
+1705351274435	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/s2/j45ssplx5j10njfbfm_8hrtw0000gn/T/rust_mozprofileTqUkbs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705351275297	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1705351276127	Marionette	INFO	Listening on port 55670
+WebDriver BiDi listening on ws://127.0.0.1:55664
+Read port: 55670
+1705351276662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55664/devtools/browser/ec41c9b0-0964-46aa-ab56-755ebe06ec0e
+1705351305331	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65, line 161: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:161:17
+uA/<@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:479:167
+l@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:161:62
+uA@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:479:134
+vA/<@https://www.googletagmanager.com/gtag/js?id=G-NGEFJL0H65:479:111
+
