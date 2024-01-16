@@ -3,7 +3,7 @@ Documentation       This is some information about the whole suite
 Resource            ../Resources/Common.robot
 Resource            ../Resources/CrmApp.robot
 Test Setup          Begin Web Test
-Test Teardown       End Wed Test
+Test Teardown       End Web Test
 # Run the  script:
 # robot -d results tests/crm.robot
 
