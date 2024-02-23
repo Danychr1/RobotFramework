@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.0rc3 (Python 3.12.2 on darwin)" generated="2024-02-22T22:07:57.224819" rpa="false" schemaversion="5">
+<suite id="s1" name="Search" source="/Users/danychristeh/PycharmProjects/RobotFW/pythonProject/Tests/Google/FunctionalTestSuite/Search.robot">
+<test id="s1-t1" name="This is basic test case" line="10">
+<kw name="Open Browser" owner="SeleniumLibrary">
+<msg time="2024-02-22T22:07:57.683515" level="INFO">Opening browser 'firefox' to base url 'https://www.google.com'.</msg>
+<msg time="2024-02-22T22:07:58.183150" level="WARN">The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0.1); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry</msg>
+<arg>https://www.google.com</arg>
+<arg>firefox</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<status status="PASS" start="2024-02-22T22:07:57.683199" elapsed="7.872223"/>
+</kw>
+<kw name="Close Browser" owner="SeleniumLibrary">
+<doc>Closes the current browser.</doc>
+<status status="PASS" start="2024-02-22T22:08:05.561145" elapsed="1.675916"/>
+</kw>
+<doc>Google test</doc>
+<tag>regression</tag>
+<status status="PASS" start="2024-02-22T22:07:57.681895" elapsed="9.555755"/>
+</test>
+<status status="PASS" start="2024-02-22T22:07:57.227305" elapsed="10.011295"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+<stat pass="1" fail="0" skip="0">regression</stat>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Search">Search</stat>
+</suite>
+</statistics>
+<errors>
+<msg time="2024-02-22T22:07:58.183150" level="WARN">The geckodriver version (0.33.0) detected in PATH at /usr/local/bin/geckodriver might not be compatible with the detected firefox version (122.0.1); currently, geckodriver 0.34.0 is recommended for firefox 122.*, so it is advised to delete the driver in PATH and retry</msg>
+</errors>
+</robot>
